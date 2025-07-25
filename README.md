@@ -1,4 +1,4 @@
-# 🧪 SMILES Reader and Molecule Visualizer using RDKik
+# 🧪 SMILES Reader and Molecule Visualizer using RDKit
 This project reads a CSV file containing SMILES strings and molecule IDs (e.g., ChEMBL IDs), converts them into 2D chemical structure images using RDKit, and displays them. Ideal for cheminformatics and drug discovery tasks.
 ## 📁 Project Structure
 ## 📚 Requirements
